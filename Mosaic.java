@@ -12,6 +12,8 @@
  * This required learning about how to implement more than one response from an
  * action listener!
  *
+ * This project has a git repository at : https://github.com/pierscm/week4Mosaic 
+ * 
  * @author Cassie Pierson
  */
 
